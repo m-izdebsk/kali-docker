@@ -1,0 +1,6 @@
+https://github.com/danielmiessler/SecLists.git //Passwords yay!
+https://github.com/lgandx/Responder //
+https://bootstrap.pypa.io/get-pip.py //
+https://github.com/Hackplayers/evil-winrm //
+https://github.com/SecureAuthCorp/impacket //
+https://github.com/int0x33/nc.exe.git //
